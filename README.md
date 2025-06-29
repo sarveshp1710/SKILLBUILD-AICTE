@@ -1,1 +1,1 @@
-Week 2 Project submission
+Garbage Classification using EfficientNet
